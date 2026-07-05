@@ -54,7 +54,7 @@ Every module:
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/primesec-recon.git
+git clone https://github.com/j0hnr00t/primesec-recon.git
 cd primesec-recon
 python3 primesec.py
 ```
